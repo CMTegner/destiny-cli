@@ -1,0 +1,18 @@
+{
+  "name": "destiny-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "destiny",
+    "bungie"
+  ],
+  "author": "Christian Tegnér <christian.tegner@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "destiny-client": "CMTegner/destiny#grimoire"
+  }
+}
